@@ -1,0 +1,15 @@
+{
+  "name": "javaback-lucassouto",
+  "version": "1.0.0",
+  "description": "Aplicacao java back end simples",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [
+    "javaback"
+  ],
+  "author": "lucas-souto",
+  "license": "ISC"
+ 
+}
